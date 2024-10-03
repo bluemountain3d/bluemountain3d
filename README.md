@@ -2,7 +2,7 @@
 
 Right now I'm attending an education to become a front end developer with previous experience in graphic design and 3d-visualization among other creative areas.
 
-Creative broblem solving, to organize and keep good structure, and be to professional is who I am.
+Creative problem solving, to organize and keep good structure, and to be professional is who I am.
 
 I recharge my energy when I'm out in nature, hanging out with my dog ​​and taking photos.
 
