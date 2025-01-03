@@ -8,6 +8,10 @@ I recharge my energy when I'm out in nature, hanging out with my dog ​​and t
 
 If you want to reach out: egil@egileskilsson.se 👋
 
+> "It is impossible for anyone to learn what he thinks he already knows."<br>
+>\-Epictetus.
+
+
 <!--
 **bluemountain3d/bluemountain3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
