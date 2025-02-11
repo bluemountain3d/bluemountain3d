@@ -13,7 +13,7 @@ Frontend Developer student with 15+ years experience in 3D visualization and dig
 - React, Vue.js
 - Git, VSCode
 - Maya, 3ds Max, Blender
-- Adobe CC, Figma
+- Adobe CC, Figma, Affinity
 
 ## Contact
 - 📧 egil@egileskilsson.se
