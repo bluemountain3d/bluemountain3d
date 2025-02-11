@@ -1,15 +1,26 @@
-## Hi there, I'm Egil
+# Egil Eskilsson
+Frontend Developer student with 15+ years experience in 3D visualization and digital art.
 
-Right now I'm attending an education to become a front end developer with previous experience in graphic design and 3d-visualization among other creative areas.
+## About Me
+- 🎓 Currently studying Frontend Development at Medieinstitutet, Stockholm
+- 🎨 Background in technical visualization for brands like Volvo, LEGO
+- 📚 Former educator in 3D visualization and production workflows
+- 🌲 Nature enthusiast and photographer
+- 🐕 Dog training enthusiast
 
-Creative problem solving, to organize and keep good structure, and to be professional is who I am.
+## Tech Stack
+- HTML, CSS, JavaScript, TypeScript
+- React, Vue.js
+- Git, VSCode
+- Maya, 3ds Max, Blender
+- Adobe CC, Figma
 
-I recharge my energy when I'm out in nature, hanging out with my dog ​​and taking photos.
+## Contact
+- 📧 egil@egileskilsson.se
+- 🔗 [LinkedIn](https://www.linkedin.com/in/egileskilsson/)
 
-If you want to reach out: egil@egileskilsson.se 👋
-
-> "It is impossible for anyone to learn what he thinks he already knows."<br>
->\-Epictetus.
+> "It is impossible for anyone to learn what he thinks he already knows."  
+> \- Epictetus
 
 
 <!--
