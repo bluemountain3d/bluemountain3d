@@ -3,13 +3,13 @@ Frontend Developer student with 15+ years experience in 3D visualization and dig
 
 ## About Me
 - 🎓 Currently studying Frontend Development at Medieinstitutet, Stockholm
-- 🎨 Background in technical visualization for brands like Volvo, LEGO
+- 🎨 Background in technical visualization projects for brands like Volvo, LEGO, Electrolux
 - 📚 Former educator in 3D visualization and production workflows
 - 🌲 Nature enthusiast and photographer
 - 🐕 Dog training enthusiast
 
 ## Tech Stack
-- HTML, CSS, JavaScript, TypeScript
+- HTML, CSS, SCSS, JavaScript, TypeScript
 - React, Vue.js
 - Git, VSCode
 - Maya, 3ds Max, Blender
