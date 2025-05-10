@@ -45,6 +45,7 @@ I'm a Frontend Developer with 15+ years of experience in 3D visualization and di
 ## Contact
 - 📧 egil@egileskilsson.se
 - 📱 +46 70-585 82 83
+- 🌐 [Portfolio](https://portfolio.egileskilsson.se)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/egileskilsson/)
 
 > "It is impossible for anyone to learn what he thinks he already knows."  
