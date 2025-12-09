@@ -4,8 +4,7 @@
 I'm a Frontend Developer with 15+ years of experience in 3D visualization and digital art. My background in technical visualization in projects for major brands has given me a unique perspective on creating intuitive, visually stunning user interfaces. Currently expanding my skillset at Medieinstitutet in Stockholm, I'm passionate about combining artistic vision with clean, efficient code.
 
 ## 🔍 Currently Seeking Internship (LIA)
-- **First period:** October 13 - December 19, 2025
-- **Second period:** February 2 - May 22, 2026
+- **Next period:** February 2 - May 22, 2026
 - **Location:** Stockholm/Nacka/ area, on-location/remote/hybrid, Sweden
 - **Looking for:** Frontend development opportunities where I can contribute with my unique background in 3D, design, and education
 
