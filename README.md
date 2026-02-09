@@ -48,9 +48,8 @@ I'm a Frontend Developer with 15+ years of experience in 3D visualization and di
 
 
 ## 🚀 Featured Projects
-- [Thesis - Precision Typography Toolkit](https://github.com/bluemountain3d/scss-design-system) - My own SCSS design system
-- [SCSS Design System](https://github.com/bluemountain3d/precision-typography-toolkit-thesis) - My own SCSS design system
-- [Font Subsetting & Metrics Tool](https://github.com/bluemountain3d/font-subsetting-and-metrics-tool) - Tool for optimizing font files
+- [Precision Typography Toolkit](https://github.com/bluemountain3d/precision-typography-toolkit-thesis) - Thesis project
+- [SCSS Design System base](https://github.com/bluemountain3d/scss-design-system) - Base for system setup
 
 ## Contact
 - 📧 egil@egileskilsson.se
