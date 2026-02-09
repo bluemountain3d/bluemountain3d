@@ -4,7 +4,7 @@
 I'm a Frontend Developer with 15+ years of experience in 3D visualization and digital art. My background in technical visualization in projects for major brands has given me a unique perspective on creating intuitive, visually stunning user interfaces. Currently expanding my skillset at Medieinstitutet in Stockholm, I'm passionate about combining artistic vision with clean, efficient code.
 
 ## 🔍 Currently Seeking Internship (LIA)
-- **Next period:** February 2 - May 22, 2026
+- **Next period:** February 2 - May 29, 2026
 - **Location:** Stockholm/Nacka/ area, on-location/remote/hybrid, Sweden
 - **Looking for:** Frontend development opportunities where I can contribute with my unique background in 3D, design, and education
 
@@ -48,7 +48,8 @@ I'm a Frontend Developer with 15+ years of experience in 3D visualization and di
 
 
 ## 🚀 Featured Projects
-- [SCSS Design System](https://github.com/bluemountain3d/scss-design-system) - My own SCSS design system
+- [Thesis - Precision Typography Toolkit](https://github.com/bluemountain3d/scss-design-system) - My own SCSS design system
+- [SCSS Design System](https://github.com/bluemountain3d/precision-typography-toolkit-thesis) - My own SCSS design system
 - [Font Subsetting & Metrics Tool](https://github.com/bluemountain3d/font-subsetting-and-metrics-tool) - Tool for optimizing font files
 
 ## Contact
