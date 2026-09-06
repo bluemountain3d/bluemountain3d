@@ -6,7 +6,7 @@ I'm a Frontend Developer combining 15+ years of technical visualization experien
 ## 💼 Open to Opportunities
 - **Position:** Frontend Developer / Junior Frontend Developer
 - **Location:** Stockholm area, Sweden (on-location, hybrid, or remote)
-- **Available:** 2026-06-15
+- **Available:** 2026-09-15
 
 *Interested in collaborating? Let's talk!*
 
@@ -20,7 +20,9 @@ I'm a Frontend Developer combining 15+ years of technical visualization experien
 🚀 Featured Projects
 
 ### [TrimScale CSS](https://github.com/bluemountain3d/trimscale-css)
-Fluid typography and optical text alignment without compromise. Type scales are generated via linear interpolation and modular scale without hardcoded breakpoints. Leading trim is implemented as a progressive polyfill using font metrics, automatically upgrading to native text-box-trim when browser support is available. Spacing and colors are delivered as CSS custom properties with OKLCH and automatic light/dark switching.
+[![npm](https://img.shields.io/npm/v/trimscale-css?style=flat-square&color=4a4a4a&labelColor=4a4a4a&logo=npm&logoColor=white)](https://www.npmjs.com/package/trimscale-css)
+
+Fluid typography and optical text alignment without compromise. Type scales interpolate continuously across viewports instead of jumping at breakpoints, line-height self-scales per element, and leading trim is derived from your actual font metrics, progressively enhanced to native text-box-trim. Spacing and OKLCH colors ship as CSS custom properties with automatic light/dark switching. Nothing runs in the browser.
 
 ### [Precision Typography Toolkit](https://github.com/bluemountain3d/precision-typography-toolkit-thesis)
 Advanced React + TypeScript application solving precision web typography through font metric extraction and visualization. Thesis project combining React 19, fontkit library, interactive SVG diagrams, and SCSS architecture. Features drag-and-drop font upload, real-time metric visualization, CSS custom property and SCSS map generation, and complete accessibility compliance (WCAG 2.1 AA).
