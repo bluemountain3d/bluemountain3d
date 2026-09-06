@@ -17,7 +17,7 @@ I'm a Frontend Developer combining 15+ years of technical visualization experien
 - 📐 Strong focus on UX/UI thinking and creative problem-solving
 - 🌲 Nature enthusiast, photographer, and dog training hobbyist
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### [TrimScale CSS](https://github.com/bluemountain3d/trimscale-css)
 [![npm](https://img.shields.io/npm/v/trimscale-css?style=flat-square&color=4a4a4a&labelColor=4a4a4a&logo=npm&logoColor=white)](https://www.npmjs.com/package/trimscale-css)
@@ -25,13 +25,13 @@ I'm a Frontend Developer combining 15+ years of technical visualization experien
 Fluid typography and optical text alignment without compromise. Type scales interpolate continuously across viewports instead of jumping at breakpoints, line-height self-scales per element, and leading trim is derived from your actual font metrics, progressively enhanced to native text-box-trim. Spacing and OKLCH colors ship as CSS custom properties with automatic light/dark switching. Nothing runs in the browser.
 
 ### [Precision Typography Toolkit](https://github.com/bluemountain3d/precision-typography-toolkit-thesis)
-Advanced React + TypeScript application solving precision web typography through font metric extraction and visualization. Thesis project combining React 19, fontkit library, interactive SVG diagrams, and SCSS architecture. Features drag-and-drop font upload, real-time metric visualization, CSS custom property and SCSS map generation, and complete accessibility compliance (WCAG 2.1 AA).
+Extracts and visualizes font metrics in the browser: drop in a font file and see its ascender, descender, cap height and x-height mapped onto interactive SVG diagrams, then export the values as CSS custom properties or SCSS maps. Built with React 19, TypeScript and fontkit as a degree thesis at Medieinstitutet. The research this project produced is what TrimScale CSS is built on. WCAG 2.1 AA throughout.
 
 ### [Puppy Shop](https://github.com/bluemountain3d/puppy-shop)
-Fully functional e-commerce webshop prototype built with vanilla JavaScript, HTML5, and SASS. Implements 20 products with complex cart logic, dynamic pricing (discounts/surcharges), shipping calculator, and multi-step checkout flow. Features perfect accessibility (keyboard navigation, WCAG compliance) and achieved 100/100 Lighthouse scores in production. Demonstrates strong DOM manipulation and form validation skills.
+An e-commerce prototype in vanilla JavaScript, HTML and SASS (no framework), no build step. Twenty products move through cart logic with quantity-based discounts and surcharges, a shipping calculator, and a multi-step checkout with full form validation. Keyboard-navigable end to end, WCAG compliant, and 100/100 across all four Lighthouse categories in production.
 
 ### [Nemos Ice Cream](https://github.com/bluemountain3d/nemos-ice-cream)
-Ocean-inspired SPA built with Vue.js 3 and Vite. Features responsive design, animated wave effects, product showcase, contact form, and seamless routing. Strong focus on visual storytelling and user experience with SASS styling. Team collaboration project showcasing modern frontend architecture.
+An ocean-themed single-page app in Vue 3 and Vite. The hero's three wave layers all run the same CSS keyframe, parameterized per layer through custom properties for amplitude, direction and duration, so they drift out of phase and never visibly repeat — pure CSS over hand-drawn SVG paths, no animation library. Routing, a product showcase and a contact form round it out, with SASS on the visual layer.
 
 ## 💻 Tech Stack
 
@@ -68,8 +68,7 @@ Ocean-inspired SPA built with Vue.js 3 and Vite. Features responsive design, ani
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
-![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
-![Affinity Publisher](https://img.shields.io/badge/-Affinity%20Publisher-C9284D?style=for-the-badge&logo=affinity-publisher&logoColor=white)
+[![Affinity](https://img.shields.io/badge/Affinity-1B72BE?style=for-the-badge&logo=affinity-designer&logoColor=white)](...)
 
 ### 3D & Visualization
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
