@@ -4,7 +4,7 @@
 I'm a Frontend Developer combining 15+ years of technical visualization experience with modern web development expertise. Having worked on complex projects for brands like Volvo, LEGO, and Electrolux, I bring both design thinking and technical precision to every project. I'm looking for new challenges where I can leverage this unique blend of skills on meaningful work.
 
 ## 💼 Open to Opportunities
-- **Position:** Frontend Developer / Junior Frontend Developer
+- **Position:** Frontend developer / Design engineer
 - **Location:** Stockholm area, Sweden (on-location, hybrid, or remote)
 - **Available:** 2026-09-15
 
